@@ -1,5 +1,4 @@
 # Dataset Descriptions  
-----------  
 ## gb\_Ab\_eddmaps.csv  
 Glossy buckthorn data from EDDMapS. Accessed and processed by Mitch O'Neill in 2017. See **gb\_Ab\_eddmaps\_meta.xlsx** for column descriptions and Mitch's notes. Includes presences, some estimates of abundance (*InfestedAreaInAcres* for rows where *validInfestedArea*==1), and some true absences (rows where *negative*==1).
 
